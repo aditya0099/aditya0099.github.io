@@ -1,0 +1,30 @@
+body {
+	font-family:Segoe UI,sans-serif;
+}
+
+.container {
+	padding: 2% 5% 2% 5%;
+}
+
+#header {
+	text-align:center;
+	background-color:#3399ff;
+}
+
+#header h1 {
+	font-size:5em;
+	color:#111111;
+	margin-bottom:0px;
+}
+
+#header p {
+	font-size:2em;
+	margin-top:0px;
+	color:#333333;
+	font-style:italic;
+}
+
+#about {
+	background-color:#eeeeee;
+	text-align:center;
+}
